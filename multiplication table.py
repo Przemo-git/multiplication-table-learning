@@ -1,6 +1,6 @@
 import random
-x=1
-while x!=0:
+
+while True:
     x=random.randint(1,10)
     y=random.randint(1,10)
     while True:
